@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kavindu Galgamuwa</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A Data Engineering Intern from Sysco LABS Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kavindunilusha&label=Profile%20views&color=0e75b6&style=flat" alt="kavindunilusha" /> </p>
 
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
-- 💬 Ask me about **Web Development|MY SQL|OOC**
+- 💬 Ask me about **Python Development|Python|SQL**
 
 - 📫 How to reach me **kavindunilusha@gmail.com**
 
